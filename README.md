@@ -230,6 +230,4 @@ This is a **custom community build**.
 
 Respect upstream developers’ time and support boundaries.
 
----
 
-**Enjoy the build — and push the SM9550 to its limits.**

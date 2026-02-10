@@ -1,6 +1,6 @@
 # Custom Batocera Build – SM9550 (Odin 2 / Portal / Mini / Thor)
 
-Custom Batocera image tailored for **Snapdragon SM9550** handhelds and consoles.
+Custom Batocera image tailored for **Snapdragon SM8550** handhelds and consoles.
 
 ---
 
@@ -9,7 +9,9 @@ Custom Batocera image tailored for **Snapdragon SM9550** handhelds and consoles.
 * **Odin 2**
 * **Odin 2 Portal**
 * **Odin 2 Mini**
-* **Ayn Thor** *(SM9550 model only — not the SN8250 Lite variant)*
+* **Ayn Thor** *(SM8550 model only — not the SM8250 Lite variant)*
+
+See https://wiki.batocera.org/hardware:ayn for bootloader 
 
 ---
 

@@ -16,7 +16,7 @@ See https://wiki.batocera.org/hardware:ayn for bootloader
 
 ---
 
-## 🎮 Included Emulators & Systems
+## 🎮 Included extra Emulators & Systems
 
 ### PlayStation 2 — AetherSX2
 

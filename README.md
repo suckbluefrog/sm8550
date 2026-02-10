@@ -11,6 +11,7 @@ Custom Batocera image tailored for **Snapdragon SM8550** handhelds and consoles.
 * **Odin 2 Mini**
 * **Ayn Thor** *(SM8550 model only — not the SM8250 Lite variant)*
 
+Tested with Rocknix ABL
 See https://wiki.batocera.org/hardware:ayn for bootloader 
 
 ---
